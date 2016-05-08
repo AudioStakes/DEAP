@@ -1,0 +1,4 @@
+python _deep
+
+・遺伝的アルゴリズムの基礎知識
+http://www.slideshare.net/kzokm/genetic-algorithm-41617242?ref=https://techstars.jp/blog/ga-1/
